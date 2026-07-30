@@ -144,5 +144,3 @@ B.Tech Artificial Intelligence & Machine Learning Student
 
 ## Acknowledgements
 This project was developed as part of an Artificial Intelligence and Machine Learning learning journey to explore the practical applications of deep learning and computer vision in solving real-world communication challenges.
-
-This project was developed as part of an Artificial Intelligence and Machine Learning learning journey to explore the practical applications of deep learning and computer vision in solving real-world communication challenges.
