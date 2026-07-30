@@ -1,1 +1,27 @@
-
+2026-01-13 00:20:23,969 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2026-01-13 00:20:23,970 - WARNING - Error in loading the saved optimizer state. As a result, your model is starting with a freshly initialized optimizer.
+2026-01-13 00:20:23,970 - INFO - Loaded model from '/Users/ompradipchougule/Documents/Mega project/SGT.h5' successfully.
+2026-01-13 00:20:23,986 - INFO - Loaded label encoder from '/Users/ompradipchougule/Documents/Mega project/label_encoder.pkl' and scaler from '/Users/ompradipchougule/Documents/Mega project/scaler.pkl' successfully.
+2026-01-13 00:20:25,461 - INFO - === Real-Time Hand Gesture Recognition Started ===
+2026-01-13 00:20:25,461 - INFO - Press 'ESC' to quit. Press 'C' to confirm the letter.
+2026-01-13 00:20:54,346 - INFO - Added Letter: K
+2026-01-13 00:20:57,807 - INFO - Added Letter: KR
+2026-01-13 00:21:00,608 - INFO - Added Letter: KRI
+2026-01-13 00:21:03,311 - INFO - Added Letter: KRIS
+2026-01-13 00:21:05,514 - INFO - Added Letter: KRISH
+2026-01-13 00:21:08,582 - INFO - Added Letter: KRISHN
+2026-01-13 00:21:11,116 - INFO - Added Letter: KRISHNA
+2026-01-13 00:21:16,082 - INFO - Spoken Sentence: Krishna
+2026-01-13 00:21:21,655 - INFO - Added Letter: H
+2026-01-13 00:21:23,390 - INFO - Added Letter: HE
+2026-01-13 00:21:30,293 - INFO - Added Letter: HEL
+2026-01-13 00:21:31,157 - INFO - Added Letter: HELL
+2026-01-13 00:21:32,959 - INFO - Added Letter: HELLO
+2026-01-13 00:21:43,264 - INFO - Added Letter: HELLOW
+2026-01-13 00:21:44,867 - INFO - Added Letter: HELLOWO
+2026-01-13 00:21:58,972 - INFO - Added Letter: HELLOWOR
+2026-01-13 00:22:09,210 - INFO - Added Letter: HELLOWORL
+2026-01-13 00:22:11,811 - INFO - Added Letter: HELLOWORLD
+2026-01-13 00:22:15,690 - INFO - Spoken Sentence: Helloworld
+2026-01-13 00:22:17,717 - INFO - ESC pressed. Exiting program.
+2026-01-13 00:22:17,810 - INFO - === Real-Time Hand Gesture Recognition Ended ===
