@@ -1,8 +1,9 @@
-# signspeak-real-time-gesture-to-text-audio
-AI-powered real-time gesture recognition system that converts sign language into text and speech.
-
 # SignSpeak: Real-Time Gesture to Text and Audio for Speech-Impaired
-
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Project Overview
 
