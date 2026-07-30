@@ -87,7 +87,7 @@ signspeak-real-time-gesture-to-text-audio/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/signspeak-real-time-gesture-to-text-audio.git
+git clone https://github.com/nandiniPatil/signspeak-real-time-gesture-to-text-audio.git
 ```
 
 ### 2. Navigate to the project directory
